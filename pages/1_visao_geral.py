@@ -312,7 +312,7 @@ st.sidebar.markdown("""-------""")
 # Criando Funcao para colocar botao para Download de arquivo CSV
 st.sidebar.markdown('### Dados Tratados')
 
-@st.cache_data
+@st.cache
 def convert_df(file_path):
     # Load the CSV file from the specified path
     df1 = pd.read_csv(file_path, on_bad_lines='skip')
