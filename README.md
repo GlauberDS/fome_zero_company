@@ -32,7 +32,7 @@
     visão tipos culinarios e visão Restaurantes.
 
 
-# 3. Estratégia da solução
+# 3. Estratégia da solução:
 
 ### Visao Geral:
   
