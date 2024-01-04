@@ -98,7 +98,7 @@
 americanas (BBQ)?
 
 
-# Top 3 Insights de Dados:
+# 4.0 - Top 3 Insights de Dados:
    
    1.0 - Diversidade de Ofertas e Alcance Global:
 
@@ -126,21 +126,21 @@ americanas (BBQ)?
    de luxo ou de alta gastronomia.
 
 
-  # 4.0 - O produto final do projeto:
+  # 5.0 - O produto final do projeto:
 
    Painel online, hospedado em um Cloud e disponível para acesso em
    qualquer dispositivo conectado à internet.
    O painel pode ser acessado através desse link: https://fomezerocompany-glauberds.streamlit.app/
 
 
-   # 5.0 - Conclusao:
+   # 6.0 - Conclusao:
 
    A Fome Zero demonstra um potencial significativo para crescimento e expansão, com oportunidades 
    para aprimorar ainda mais a experiência do cliente e expandir sua base de usuários em mercados 
    existentes e novos. A análise detalhada dos dados pode continuar a fornecer insights valiosos 
    para a tomada de decisões estratégicas e operacionais da empresa.
 
-# 6.0 - Proximos Passos:
+# 7.0 - Proximos Passos:
    
    1. Integração de Feedback dos Usuários.
    2. Parcerias Estratégicas com Restaurantes e Fornecedores.
