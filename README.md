@@ -100,7 +100,7 @@ americanas (BBQ)?
 
 # Top 3 Insights de Dados:
    
-   ### 1.0 - Diversidade de Ofertas e Alcance Global:
+   1.0 - Diversidade de Ofertas e Alcance Global:
 
    A Fome Zero tem uma presença global significativa, evidenciada pelo registro de 5914 
    restaurantes únicos espalhados por 15 países diferentes e 125 cidades. Isso demonstra 
@@ -109,14 +109,14 @@ americanas (BBQ)?
    de culinária únicos registrados. Isso sugere que a Fome Zero pode atender a uma vasta gama 
    de preferências alimentares e culturais, tornando-a atrativa para um público diversificado.
    
-   ### 2.0 - Foco em Qualidade e Serviço ao Cliente:
+   2.0 - Foco em Qualidade e Serviço ao Cliente:
 
    Com um total impressionante de 4.639.654 avaliações, fica claro que a Fome Zero tem uma base 
    de usuários ativa e engajada. Isso não só indica um alto nível de interação dos clientes com 
    a plataforma, mas também fornece uma rica fonte de dados para análises e melhorias contínuas no serviço.
    
    
-  ### 3.0 - Tendências Regionais e Oportunidades de Crescimento:
+  3.0 - Tendências Regionais e Oportunidades de Crescimento:
 
    Observa-se uma concentração significativa de atividades em certos países. Por exemplo, A India domina 
    em várias categorias, incluindo o maior número de cidades registradas, a maioria dos restaurantes registrados, 
